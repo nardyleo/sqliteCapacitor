@@ -1,0 +1,7 @@
+{
+  "name": "testeSql",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
